@@ -1,0 +1,11 @@
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Projetos\ProjetoCoreDDD\ProjetoCoreDDD\Application\obj\Debug\netcoreapp3.1\Application.pdb
