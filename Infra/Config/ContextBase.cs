@@ -24,7 +24,7 @@ namespace Infra.Config
 
         private string StringConnectionConfig()
         {
-            string strConf = "server=DESKTOP-S8VP4K4\\SQLEXPRESS;User Id=sa;password=123456;Persist Security Info=True;database=DDDTesteCore";
+            string strConf = "server=servidor01\\SQLEXPRESS,1433;User Id=sa;password=server@01;Persist Security Info=True;database=DDDTesteCore";
             return strConf;
         }
     }
